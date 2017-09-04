@@ -1,0 +1,23 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.blog:not(.has-sidebar) #primary article,
+.archive:not(.page-one-column):not(.has-sidebar) #primary article,
+.search:not(.has-sidebar) #primary article,
+.error404:not(.has-sidebar) #primary .page-content,
+.error404.has-sidebar #primary .page-content,
+body.page-two-column:not(.archive) #primary .entry-content,
+body.page-two-column #comments {
+    width: 100%;
+    float: inherit;
+}
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css");
+
+/*Remove Instagram's black line */
+#sb_instagram .sb_instagram_header a {  
+float: none;
+
+}
