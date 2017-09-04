@@ -9,6 +9,6 @@ published: true
 post_date: 2017-09-04 16:41:00
 ---
 <hr style="margin-bottom: 3rem;">
-<div class="align-middle">
+<div class="mx-auto">
 [contact-form-7 id="454" title="Contact Us"]
 </div>
