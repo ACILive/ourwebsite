@@ -25,11 +25,15 @@ post_date: 2017-04-20 10:59:16
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vqdqmbaPByw" allowfullscreen="1" allowfullscreen="1"></iframe>
             </div>
         </div>
+        <div class="clearifix">
+        </div>
         <div class="col-sm-4">
             <h3>Prep&amp;L1 Orchestra</h3>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bIXfufUWjQo" allowfullscreen="1"></iframe>
             </div>
+        </div>
+        <div class="clearifix">
         </div>
         <div class="col-sm-4">
             <h3>L2-L3 Orkestra 2017</h3>
