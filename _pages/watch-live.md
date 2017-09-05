@@ -12,7 +12,7 @@ post_date: 2017-04-20 10:59:16
 <div id="watch-live">
     <div class="container">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="http://cdn.livestream.com/embed/acilivetv?layout=4&color=0xe7e7e7&autoPlay=false&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true&height=340&width=560"></iframe>
+            <iframe class="embed-responsive-item" src="http://cdn.livestream.com/embed/acilivetv?layout=4&color=0xe7e7e7&autoPlay=false&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true&height=auto&width=auto"></iframe>
         </div>
     </div>
     <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
