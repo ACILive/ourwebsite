@@ -18,22 +18,25 @@ post_date: 2017-04-20 10:59:16
         <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
     </div>
 
-    <div class="col-sm-4">
-        <h3>Polyphonic Prep Choir 2017</h3>
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vqdqmbaPByw" allowfullscreen="1" allowfullscreen="1"></iframe>
+    <div class="row">
+        <div class="col-sm-4">
+            <h3>Polyphonic Prep Choir 2017</h3>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vqdqmbaPByw" allowfullscreen="1" allowfullscreen="1"></iframe>
+            </div>
         </div>
-    </div>
-    <div class="col-sm-4">
-        <h3>Prep&amp;L1 Orchestra</h3>
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bIXfufUWjQo" allowfullscreen="1"></iframe>
+
+        <div class="col-sm-4">
+            <h3>Prep&amp;L1 Orchestra</h3>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bIXfufUWjQo" allowfullscreen="1"></iframe>
+            </div>
         </div>
-    </div>
-    <div class="col-sm-4">
-        <h3>L2-L3 Orkestra 2017</h3>
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://www.youtube.com/embed/m6b3PmVdiCA" allowfullscreen="1"></iframe>
+        <div class="col-sm-4">
+            <h3>L2-L3 Orkestra 2017</h3>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://www.youtube.com/embed/m6b3PmVdiCA" allowfullscreen="1"></iframe>
+            </div>
         </div>
     </div>
 
