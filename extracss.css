@@ -21,3 +21,36 @@ body.page-two-column #comments {
 float: none;
 
 }
+
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.error404 #primary .page-header, body.page-two-column:not(.archive) #primary .entry-header, body.page-two-column.archive:not(.has-sidebar) #primary .page-header {
+    float: none;
+    width: inherit;
+}
+.page-two-column .panel-content .entry-header .entry-content {
+    float: none;
+    width: auto;
+}
+.page-two-column .panel-content .entry-content {
+    float: right;
+    width: inherit;
+}
+.page-two-column .panel-content .entry-header {
+    float: inherit;
+    width: inherit;
+}
+.page-two-column .panel-content .entry-content {
+    float: inherit;
+    width: inherit;
+}
+.entry-title {
+color: #000000;
+}
