@@ -18,20 +18,18 @@ post_date: 2017-04-20 10:59:16
     <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
 </div>
 <div id="previous-events">
-    <div class="row">
+    <div class="row" style="display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;">
         <div class="col-sm-4">
             <h3>Moods 2017</h3>
-            <br>
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/thkjA94Ymts" width="300" height="150"
-                    allowfullscreen="allowfullscreen"></iframe>
+                <iframe style="position: absolute;bottom: 0;margin-right: 0;" class="embed-responsive-item" src="https://www.youtube.com/watch?v=thkjA94Ymts"
+                    width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
         <div class="col-sm-4">
             <h3>Prep and Lise 1 Orchestra 2017</h3>
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bIXfufUWjQo" width="300" height="150"
-                    allowfullscreen="allowfullscreen"></iframe>
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bIXfufUWjQo" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
         <div class="col-sm-4">
