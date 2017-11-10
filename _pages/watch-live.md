@@ -20,7 +20,7 @@ post_date: 2017-04-20 10:59:16
 <div id="previous-events">
     <div class="row">
         <div class="col-sm-4">
-            <h3>Moods 2017</h3>
+            <h3>Moods 2017                    </h3>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/thkjA94Ymts" width="300" height="150"
                     allowfullscreen="allowfullscreen"></iframe>
