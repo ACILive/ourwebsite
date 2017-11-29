@@ -1,0 +1,1 @@
+<!--We try not to use any additional php, we might need to create a child theme oneday-->
