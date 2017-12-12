@@ -8,6 +8,96 @@ permalink: http://www.acilive.tv/crew/
 published: true
 post_date: 2017-05-16 13:52:43
 ---
+<h2 style="color:gray; font-size: 42px; font-family: Impact, Charcoal, sans-serif; position:relative; left: 190px;">Our Crew</h2>
+
+
+<div class="container">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBYLGYN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
+  <div class="middle" style="top:110px; left:90px;">
+    <div class="text" >Aslı Yücebilgin</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DYREN.jpg" alt="" width="138" height="177" class="alignnone size-full wp-image-616" /></a> alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:110px; left:275px;">Cem Diren</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/melisa_cekcek.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:110px; left:460px;">Melisa Çekçek</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/efe_gulay.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:340px; left:90px;">Efe Gülay</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/selina_gezmez.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:340px; left:275px;">Selina Gezmez</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/yigit_dayi.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:340px; left:460px;">Yiğit Dayı</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/alis_eralp.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:570px; left:90px;">Alis Eralp</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/naz_kayin.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:570px; left:275px;">Naz Kayın</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/cansu_cubukcu.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:570px; left:460px;">Cansu Çubukçu</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/rita_viktorya.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:800px; left:90px;">Rita Viktorya</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/ozgenur_celik.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:800px; left:460px;">Özgenur Çelik</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="EXEC17/nazli_demirkan.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <div class="middle">
+    <div class="text" style="top:800px; left:460px;">Nazlı Demirkan</div>
+  </div>
+</div>
+
+</body>
+</html>
+
 <h3>About Us</h3>
 <div style="max-height: 330px; height: auto; width: aotp; border: 0px solid #ccc; overflow: auto;">
 
