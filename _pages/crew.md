@@ -12,7 +12,6 @@ post_date: 2017-05-16 13:52:43
 
 
 <div class="container">
-<a href="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBYLGYN.jpg"><img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBYLGYN.jpg" alt="" width="138" height="177" class="alignnone size-full wp-image-613" /></a>
   <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBYLGYN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
   <div class="middle" style="top:110px; left:90px;">
     <div class="text" >Aslı Yücebilgin</div>
