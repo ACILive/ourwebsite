@@ -39,10 +39,6 @@ body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.erro
     float: none;
     width: auto;
 }
-.page-two-column .panel-content .entry-content {
-    float: right;
-    width: inherit;
-}
 .page-two-column .panel-content .entry-header {
     float: inherit;
     width: inherit;
@@ -53,4 +49,11 @@ body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.erro
 }
 .entry-title {
 color: #000000;
+}
+.site-info {
+    float: inherit;
+    width: inherit;
+}
+body {
+		text-align: center;
 }
