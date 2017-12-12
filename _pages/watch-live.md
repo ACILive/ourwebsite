@@ -28,14 +28,14 @@ post_date: 2017-04-20 10:59:16
         </div>
         <div class="col-sm-4">
             <h3>Polyphonic Choir Concert 2017</h3>
-            <div class="embed-responsive embed-responsive-16by9">
+            <div class="embed-responsive embed-responsive-16by9 align-self-end">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vqdqmbaPByw" width="300" height="150"
                     allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
         <div class="col-sm-4">
             <h3>Lise 2 and Lise 3 Orchestra 2017</h3>
-            <div class="embed-responsive embed-responsive-16by9">
+            <div class="embed-responsive embed-responsive-16by9 align-self-end">
                 <iframe src="https://www.youtube.com/embed/m6b3PmVdiCA" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
