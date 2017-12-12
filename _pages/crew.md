@@ -19,7 +19,7 @@ post_date: 2017-05-16 13:52:43
 </div>
 
 <div class="container">
-  <img <a href="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DYREN.jpg"><img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DYREN.jpg" alt="" width="138" height="177" class="alignnone size-full wp-image-616" /></a> alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DYREN.jpg" alt="" width="138" height="177" class="alignnone size-full wp-image-616" /></a> alt="Avatar" class="image" style="width:25%" "height:25%">
   <div class="middle">
     <div class="text" style="top:110px; left:275px;">Cem Diren</div>
   </div>
