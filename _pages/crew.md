@@ -9,84 +9,84 @@ published: true
 post_date: 2017-05-16 13:52:43
 ---
 <div class="container">
-  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBYLGYN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
   <div class="middle" style="top:110px; left:90px;">
     <div class="text">Aslı Yücebilgin</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_CEM_DYREN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DIREN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
   <div class="middle" style="top:110px; left:90px;">
-    <div class="text">Aslı Yücebilgin</div>
+    <div class="text">Cem Diren</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/melisa_cekcek.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1474_MELISA_CEKCEK.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:110px; left:460px;">Melisa Çekçek</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/efe_gulay.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1374_EFE_GULAY.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:340px; left:90px;">Efe Gülay</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/selina_gezmez.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1301_SELINA_GEZMEZ.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:340px; left:275px;">Selina Gezmez</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/yigit_dayi.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1459_YIGIT_DAYI.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:340px; left:460px;">Yiğit Dayı</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/alis_eralp.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1457_ALIS_ERALP.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:570px; left:90px;">Alis Eralp</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/naz_kayin.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:570px; left:275px;">Naz Kayın</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/cansu_cubukcu.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1371_CANSU_CUBUKCU.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:570px; left:460px;">Cansu Çubukçu</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/rita_viktorya.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1369_RITA_VIKTORYA_RUSO.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:800px; left:90px;">Rita Viktorya</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/ozgenur_celik.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:800px; left:460px;">Özgenur Çelik</div>
   </div>
 </div>
 
 <div class="container">
-  <img src="EXEC17/nazli_demirkan.jpg" alt="Avatar" class="image" style="width:25%" "height:25%">
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1345_NAZLI_DEMIRKAN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:800px; left:460px;">Nazlı Demirkan</div>
   </div>
