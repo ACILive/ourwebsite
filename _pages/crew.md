@@ -17,7 +17,7 @@ post_date: 2017-05-16 13:52:43
 
 <div class="container">
   <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DIREN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
-  <div class="middle" style="top:110px; left:90px;">
+  <div class="middle" style="top:110px; left:275px;">
     <div class="text">Cem Diren</div>
   </div>
 </div>
