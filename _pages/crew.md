@@ -60,7 +60,7 @@ post_date: 2017-05-16 13:52:43
 <div class="container">
   <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
-    <div class="text" style="top:570px; left:275px;">Naz Kayın</div>
+    <div class="text">Naz Kayın</div>
   </div>
 </div>
 
