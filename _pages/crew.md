@@ -65,7 +65,7 @@ post_date: 2017-05-16 13:52:43
 </div>
 
 <div class="container">
-  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1371_CANSU_CUBUKCU (1).jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
+  <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1371_CANSU_CUBUKCU-(1).jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">  
   <div class="middle">
     <div class="text" style="top:570px; left:460px;">Cansu Çubukçu</div>
   </div>
