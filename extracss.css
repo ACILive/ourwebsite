@@ -57,3 +57,47 @@ color: #000000;
 body {
 		text-align: center;
 }
+.container {
+    position: relative;
+    width: 50%;
+}
+
+.image {
+  float: left;
+  width: 30%;
+  margin-right: 1%;
+  margin-bottom: 0.5em;
+  opacity: 1;
+  display: flex;
+  height: 100%;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  border-radius: 50%;
+  border:2px solid gray;
+  margin:10px
+  }
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  display: flex;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 0.7;
+}
+
+.text {
+  position: relative;
+  background-color: gray;
+  color: black;
+  font-size: 16px;
+  padding: 4px 16px;
+} 
