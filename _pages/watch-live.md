@@ -12,7 +12,7 @@ post_date: 2017-04-20 10:59:16
 
 <div id="watch-live">
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/live_stream?channel=UCIQVsLx7MIwj5ZhswD3ff3Q"
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gR1XmrhnMIA"
             width="300" height="150"></iframe>
     </div>
     <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
