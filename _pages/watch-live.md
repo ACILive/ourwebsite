@@ -18,6 +18,7 @@ post_date: 2017-04-20 10:59:16
     <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
 </div>
 <div id="previous-events">
+     <h2>Previous Events</h2>
     <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxbYQbP8SEqZ6WDDlQJmHLRjmevsGy3rA"
             frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen width="300" height="150"></iframe>
