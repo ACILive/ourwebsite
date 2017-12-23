@@ -57,19 +57,17 @@ color: #000000;
 body {
 		text-align: center;
 }
-.container {
+.crew-members {
     position: relative;
     width: 50%;
 }
 
 .image {
   float: left;
-  width: 30%;
   margin-right: 1%;
   margin-bottom: 0.5em;
   opacity: 1;
   display: flex;
-  height: 100%;
   transition: .5s ease;
   backface-visibility: hidden;
   border-radius: 50%;
@@ -86,11 +84,11 @@ body {
   -ms-transform: translate(-50%, -50%)
 }
 
-.container:hover .image {
+.crew-members:hover .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.crew-members:hover .middle {
   opacity: 0.7;
 }
 
