@@ -10,28 +10,28 @@ post_date: 2017-05-16 13:52:43
 ---
 <div class="container">
   <div class="row">
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Aslı Yücebilgin</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DIREN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Cem Diren</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1474_MELISA_CEKCEK.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Melisa Çekçek</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1374_EFE_GULAY.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Efe Gülay</div>
@@ -39,28 +39,28 @@ post_date: 2017-05-16 13:52:43
     </div>
   </div>
   <div class="row">
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1301_SELINA_GEZMEZ.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Selina Gezmez</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1459_YIGIT_DAYI.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Yiğit Dayı</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1457_ALIS_ERALP.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Alis Eralp</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Naz Kayın</div>
@@ -68,28 +68,28 @@ post_date: 2017-05-16 13:52:43
     </div>
   </div>
   <div class="row">
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1371_CANSU_CUBUKCU-1.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Cansu Çubukçu</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1369_RITA_VIKTORYA_RUSO.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Rita Viktorya</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Özgenur Çelik</div>
       </div>
     </div>
 
-    <div class="crew-members col-">
+    <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1345_NAZLI_DEMIRKAN.jpg" alt="Avatar" class="image" style="width:25%; height:25%; left:">
       <div class="middle">
         <div class="text">Nazlı Demirkan</div>
