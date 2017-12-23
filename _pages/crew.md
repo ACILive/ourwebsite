@@ -8,7 +8,6 @@ permalink: http://www.acilive.tv/crew/
 published: true
 post_date: 2017-05-16 13:52:43
 ---
-<div class="container">
   <div class="row">
     <div class="crew-members container col-">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar" class="image"  >
@@ -96,7 +95,6 @@ post_date: 2017-05-16 13:52:43
       </div>
     </div>
   </div>
-</div>
 
 <h3>About Us</h3>
 <div style="max-height: 330px; height: auto; width: aotp; border: 0px solid #ccc; overflow: auto;">
