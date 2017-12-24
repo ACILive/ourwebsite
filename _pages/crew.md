@@ -9,7 +9,7 @@ published: true
 post_date: 2017-05-16 13:52:43
 ---
 <div class="our-members-div">
-  <div class="row">
+  <div class="row align-items-center">
     <div class="crew-members container col-3">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar" class="image">
       <div class="middle">
@@ -18,9 +18,11 @@ post_date: 2017-05-16 13:52:43
     </div>
 
     <div class="crew-members container container col-3">
-      <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DIREN.jpg" alt="Avatar" class="image">
-      <div class="middle">
-        <div class="text">Cem Diren</div>
+      <div class=>
+        <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1368_CEM_DIREN.jpg" alt="Avatar" class="image">
+        <div class="middle">
+          <div class="text">Cem Diren</div>
+        </div>
       </div>
     </div>
 
