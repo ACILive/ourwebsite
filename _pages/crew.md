@@ -9,7 +9,7 @@ published: true
 post_date: 2017-05-16 13:52:43
 ---
 <div class="our-members-div">
-  <div class="row align-items-center">
+  <div class="row justify-content-center">
     <div class="crew-members container col-3">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar" class="image">
       <div class="middle">
