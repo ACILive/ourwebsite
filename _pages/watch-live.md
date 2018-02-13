@@ -25,4 +25,7 @@ post_date: 2017-04-20 10:59:16
         Watch
         <a href="http://original.livestream.com/acilivetv/folder">other previous events</a>
     </div>
+    <div>
+         [do_widget "Upcoming Events"]
+    </div>
 </div>
