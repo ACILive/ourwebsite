@@ -26,6 +26,6 @@ post_date: 2017-04-20 10:59:16
         <a href="http://original.livestream.com/acilivetv/folder">other previous events</a>
     </div>
     <div>
-         [do_widget "Upcoming Events"]
+         [do_widget "Upcoming Events (Jetpack)"]
     </div>
 </div>
