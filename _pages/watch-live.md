@@ -22,5 +22,5 @@ post_date: 2017-04-20 10:59:16
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLxbYQbP8SEqZ6WDDlQJmHLRjmevsGy3rA" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 Watch
 <a href="http://original.livestream.com/acilivetv/folder">other previous events</a></div>
-[do_widget "Upcoming Events (Jetpack)"]
+[widget id="upcoming_events_widget-2"]
 </div>
