@@ -90,14 +90,14 @@ post_date: 2017-05-16 13:52:43
     <div class="crew-members container col-3">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar" class="rounded mx-auto d-block crew-image ">
       <div class="middle">
-        <div class="text">Özgenur Çelik</div>
+        <div class="text">Özgenur Çelik [sg_popup id=1]</div>
       </div>
     </div>
 
     <div class="crew-members container col-3">
       <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1345_NAZLI_DEMIRKAN.jpg" alt="Avatar" class="rounded mx-auto d-block crew-image ">
       <div class="middle">
-        <div class="text">Nazlı Demirkan</div>
+        <div class="text"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Nazlı Demirkan<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_end">﻿</span></div>
       </div>
     </div>
   </div>
