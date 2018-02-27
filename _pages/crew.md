@@ -88,9 +88,9 @@ post_date: 2017-05-16 13:52:43
     </div>
 
     <div class="crew-members container col-3">
-      <img src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar" class="rounded mx-auto d-block crew-image ">
+      [sg_popup id="1" event="click"]<img src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar" class="rounded mx-auto d-block crew-image ">[/sg_popup]
       <div class="middle">
-        <div class="text">[sg_popup id="1" event="click"]Özgenur Çelik[/sg_popup]</div>
+        <div class="text">Özgenur Çelik</div>
       </div>
     </div>
 
