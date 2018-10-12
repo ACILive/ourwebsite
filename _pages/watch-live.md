@@ -12,7 +12,9 @@ post_date: 2017-04-20 10:59:16
 [wonderplugin_gallery id="1"]
 <div id="watch-live">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/b_A79oDR_tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/SDhU68x1u0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+Watch
+<a href="https://www.youtube.com/channel/UCIQVsLx7MIwj5ZhswD3ff3Q">on YouTube</a></div>
 
 <div style="font-size: 11px; padding-top: 10px; width: 560px;"></div>
 </div>
