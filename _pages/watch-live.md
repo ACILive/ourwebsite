@@ -9,7 +9,6 @@ published: true
 post_date: 2017-04-20 10:59:16
 ---
 <hr />
-[wonderplugin_gallery id="1"]
 <div id="watch-live">
 
 <div class="embed-responsive embed-responsive-16by9">
