@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.acilive.tv/googleddb16b7c635019be-html/
+  http://www.acilive.tv/googleddb16b7c635019be/
 published: true
 post_date: 2018-10-31 10:13:11
 ---
