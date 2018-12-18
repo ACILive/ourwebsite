@@ -41,6 +41,7 @@ post_date: 2017-05-16 13:52:43
     </div>
     <p>&nbsp;
     </p>
+</div>
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Defne Tankurt</div>
@@ -97,3 +98,7 @@ post_date: 2017-05-16 13:52:43
   <p class="contact-text ">&nbsp;</p>
 </div>
 <!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
