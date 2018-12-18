@@ -78,19 +78,9 @@ post_date: 2017-05-16 13:52:43
 
 </div>
 &nbsp;
-<div class="crew-members container col-3">[sg_popup id="7" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1457_ALIS_ERALP.jpg" alt="Avatar">
-<div class="middle">[/sg_popup]
-<div class="text">Alis Eralp</div>
-&nbsp;
-
-</div>
-&nbsp;
-
-</div>
-&nbsp;
-<div class="crew-members container col-3">[sg_popup id="8" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar">[/sg_popup]
+<div class="crew-members container col-3">[sg_popup id="8" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg" alt="Avatar">[/sg_popup]
 <div class="middle">
-<div class="text">Naz Kayın</div>
+<div class="text">Adel Aycan</div>
 &nbsp;
 
 </div>
@@ -100,49 +90,6 @@ post_date: 2017-05-16 13:52:43
 &nbsp;
 
 </div>
-&nbsp;
-<div class="row">
-<div class="crew-members container col-3">[sg_popup id="9" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1371_CANSU_CUBUKCU-1.jpg" alt="Avatar">[/sg_popup]
-<div class="middle">
-<div class="text">Cansu Çubukçu</div>
-&nbsp;
-
-</div>
-&nbsp;
-
-</div>
-&nbsp;
-<div class="crew-members container col-3">[sg_popup id="10" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1369_RITA_VIKTORYA_RUSO.jpg" alt="Avatar">[/sg_popup]
-<div class="middle">
-<div class="text">Rita Viktorya</div>
-&nbsp;
-
-</div>
-&nbsp;
-
-</div>
-&nbsp;
-<div class="crew-members container col-3">[sg_popup id="11" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1300_OZGENUR_CELIK.jpg" alt="Avatar">[/sg_popup]
-<div class="middle">
-<div class="text">Özgenur Çelik</div>
-&nbsp;
-
-</div>
-&nbsp;
-
-</div>
-&nbsp;
-<div class="crew-members container col-3">[sg_popup id="11" event="click"]<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1345_NAZLI_DEMIRKAN.jpg" alt="Avatar">[/sg_popup]
-<div class="middle">
-<div class="text">Nazlı Demirkan</div>
-&nbsp;
-
-</div>
-&nbsp;
-
-</div>
-&nbsp;
-
 </div>
 </div>
 <h3>About Us</h3>
