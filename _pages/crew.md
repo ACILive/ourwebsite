@@ -52,8 +52,6 @@ post_date: 2017-05-16 13:52:43
     </div>
     <p>&nbsp;</p>
   </div>
-  <p>&nbsp;
-  </p>
 <div class="row ">
   <div class="crew-members container col-3 ">
     <p><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
