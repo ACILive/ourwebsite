@@ -20,7 +20,6 @@ post_date: 2017-05-16 13:52:43
     <div class="crew-members container container col-3"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/alin_ataz.jpg" alt="Avatar">
       <div class="middle">
         <div class="text">Alin Ataz</div>
-        <p>&nbsp;</p>
       </div>
     </div>
     <div class="crew-members container col-3">
@@ -29,7 +28,6 @@ post_date: 2017-05-16 13:52:43
         <div class="text">Çağla Özbek</div>
       </div>
     </div>
-    </p>
   </div>
   <div class="row justify-content-center">
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar ">
@@ -40,8 +38,7 @@ post_date: 2017-05-16 13:52:43
   </div>
   <div class="row justify-content-center">
     <div class="crew-members container col-3 ">
-      <p><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
-      </p>
+      <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Dünya Gürses</div>
       </div>
