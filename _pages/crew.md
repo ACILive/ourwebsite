@@ -38,27 +38,21 @@ post_date: 2017-05-16 13:52:43
       </div>
     </div>
   </div>
-  <div class="row ">
+  <div class="row justify-content-center">
     <div class="crew-members container col-3 ">
       <p><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
       </p>
       <div class="middle ">
         <div class="text ">Dünya Gürses</div>
-        <p>&nbsp;</p>
       </div>
-      <p>&nbsp;</p>
     </div>
     <p>&nbsp;
     </p>
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Galya Algranati</div>
-        <p>&nbsp;</p>
       </div>
-      <p>&nbsp;</p>
     </div>
-    <p>&nbsp;
-    </p>
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Adel Aycan</div>
