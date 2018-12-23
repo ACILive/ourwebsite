@@ -22,11 +22,11 @@ post_date: 2017-05-16 13:52:43
         <div class="text">Alin Ataz</div>
       </div>
     </div>
-    <div class="crew-members container col-3">
-      <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/cagla_ozbek.jpg" alt="Avatar">
+    <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar ">
       <div class="middle ">
-        <div class="text">Çağla Özbek</div>
+        <div class="text ">Galya Algranati</div>
       </div>
+    </div>
     </div>
   </div>
   <div class="row justify-content-center">
@@ -53,11 +53,11 @@ post_date: 2017-05-16 13:52:43
         <div class="text ">Dünya Gürses</div>
       </div>
     </div>
-    <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar ">
+    <div class="crew-members container col-3">
+      <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/cagla_ozbek.jpg" alt="Avatar">
       <div class="middle ">
-        <div class="text ">Galya Algranati</div>
+        <div class="text">Çağla Özbek</div>
       </div>
-    </div>
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Adel Aycan</div>
