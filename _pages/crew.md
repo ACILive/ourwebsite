@@ -11,50 +11,50 @@ post_date: 2017-05-16 13:52:43
 <!-- wp:html -->
 <div class="our-members-div container">
   <div class="row justify-content-center">
-    <div class="crew-members container col-4 col-sm-2">
+    <div class="crew-members container col-2 col-sm-4">
       <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/berke_guducu.jpg" alt="Avatar">
       <div class="middle">
         <div class="text">Berke Güdücü</div>
       </div>
     </div>
-    <div class="crew-members container container col-4 col-sm-2"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/alin_ataz.jpg" alt="Avatar">
+    <div class="crew-members container container col-2 col-sm-4"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/alin_ataz.jpg" alt="Avatar">
       <div class="middle">
         <div class="text">Alin Ataz</div>
       </div>
     </div>
-    <div class="crew-members container col-4 col-sm-2 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar ">
+    <div class="crew-members container col-2 col-sm-4 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Galya Algranati</div>
       </div>
     </div>
-    <div class="crew-members container col-4 col-sm-2 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar ">
+    <div class="crew-members container col-2 col-sm-4 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Selin Üçok</div>
       </div>
     </div>
-    <div class="crew-members container col-4 col-sm-2 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar ">
+    <div class="crew-members container col-2 col-sm-4 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Defne Tankurt</div>
       </div>
     </div>
-    <div class="crew-members container col-4 col-sm-2 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/deniz-erdogan.jpg " alt="Avatar ">
+    <div class="crew-members container col-2 col-sm-4 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/deniz-erdogan.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Deniz Erdoğan</div>
       </div>
   </div>
-    <div class="crew-members container col-4 col-sm-2 ">
+    <div class="crew-members container col-2 col-sm-4 ">
       <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Dünya Gürses</div>
       </div>
     </div>
-    <div class="crew-members container col-4 col-sm-2">
+    <div class="crew-members container col-2 col-sm-4">
       <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/cagla_ozbek.jpg" alt="Avatar">
       <div class="middle ">
         <div class="text">Çağla Özbek</div>
       </div>
     </div>
-      <div class="crew-members container col-4 col-sm-2 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar ">
+      <div class="crew-members container col-2 col-sm-4 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar ">
         <div class="middle ">
           <div class="text ">Adel Aycan</div>
         </div>
