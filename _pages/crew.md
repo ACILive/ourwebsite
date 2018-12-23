@@ -9,7 +9,7 @@ published: true
 post_date: 2017-05-16 13:52:43
 ---
 <!-- wp:html -->
-<div class="our-members-div">
+<div class="our-members-div container">
   <div class="row justify-content-center">
     <div class="crew-members container col-4">
       <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/berke_guducu.jpg" alt="Avatar">
