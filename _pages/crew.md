@@ -28,7 +28,6 @@ post_date: 2017-05-16 13:52:43
       </div>
     </div>
   </div>
-  <div class="row justify-content-center">
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Selin Üçok</div>
@@ -43,9 +42,7 @@ post_date: 2017-05-16 13:52:43
       <div class="middle ">
         <div class="text ">Deniz Erdoğan</div>
       </div>
-    </div>
   </div>
-  <div class="row justify-content-center">
     <div class="crew-members container col-3 ">
       <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar ">
       <div class="middle ">
@@ -63,7 +60,6 @@ post_date: 2017-05-16 13:52:43
           <div class="text ">Adel Aycan</div>
         </div>
       </div>
-    </div>
   </div>
   <h3>About Us</h3>
   <div style="max-height: 330px; height: auto; width: aotp; border: 0px solid #ccc; overflow: auto; ">
