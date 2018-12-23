@@ -27,7 +27,6 @@ post_date: 2017-05-16 13:52:43
         <div class="text ">Galya Algranati</div>
       </div>
     </div>
-  </div>
     <div class="crew-members container col-3 "><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar ">
       <div class="middle ">
         <div class="text ">Selin Üçok</div>
