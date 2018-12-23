@@ -64,7 +64,6 @@ post_date: 2017-05-16 13:52:43
     </div>
   </div>
 </div>
-</div>
 <h3>About Us</h3>
 <div style="max-height: 330px; height: auto; width: aotp; border: 0px solid #ccc; overflow: auto; ">
   <p>The idea of “ACI LIVE TV” was first founded in 2010-2011 school year, by five students that were taking ‘Web Publishing’<br> as a list three (grade 11) elective course. This group was discussing ideas for a group web project. The first project<br> was
