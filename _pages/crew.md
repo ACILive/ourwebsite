@@ -32,7 +32,7 @@ post_date: 2017-05-16 13:52:43
         <div class="text ">Selin Üçok</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/pr/"> < img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Defne Tankurt</div>
       </div>
