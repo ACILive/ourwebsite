@@ -27,7 +27,7 @@ post_date: 2017-05-16 13:52:43
         <div class="text ">Galya Algranati</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcasting/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcast/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Selin Üçok</div>
       </div>
@@ -42,7 +42,7 @@ post_date: 2017-05-16 13:52:43
         <div class="text ">Deniz Erdoğan</div>
       </div>
   </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcasting/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcast/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Dünya Gürses</div>
       </div>
