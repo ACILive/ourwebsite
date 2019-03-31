@@ -22,7 +22,7 @@ post_date: 2019-03-28 12:59:44
         <div class="text">Selina Gezmez</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2017/12/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar "> 
+    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2019/03/1315_ASLI_YUCEBILGIN.jpg" alt="Avatar "> 
       <div class="middle ">
         <div class="text ">Aslı Yücebilgin</div>
       </div>
@@ -37,7 +37,7 @@ post_date: 2019-03-28 12:59:44
         <div class="text ">Nazlı Demirkan</div>
       </div>
     </div>
-<div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> 
+<div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/03/1358-SILA-DENİZ-GÜLHAN.jpg" alt="Avatar "> 
       <div class="middle ">
         <div class="text ">Sıla Deniz Gülhan</div>
       </div>
