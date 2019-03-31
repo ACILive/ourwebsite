@@ -14,5 +14,4 @@ post_date: 2019-03-28 12:54:46
         <div class="text ">Deniz Eroğlu</div>
       </div>
     </div>
-
 <!-- /wp:html -->
