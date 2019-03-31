@@ -67,7 +67,7 @@ post_date: 2017-05-16 13:52:43
 <div class="text">VIDEO EDITING</div>
         </div>
       </div>
-<a href=“http://www.acilive.tv/previous-execs/”> <p>Previous Execs</p></a>
+<a href="http://www.acilive.tv/previous-execs/"> <p>Previous Execs</p></a>
   </div>
   <h3>About Us</h3>
   <div style="max-height: 330px; height: auto; width: aotp; border: 0px solid #ccc; overflow: auto; ">
