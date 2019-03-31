@@ -29,7 +29,7 @@ post_date: 2019-03-28 12:59:44
     </div>
 <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/03/Screen-Shot-2019-03-31-at-16.10.26.png" alt="Avatar ">
       <div class="middle ">
-        <div class="text ">nAZ</div>
+        <div class="text ">Aslı Yücebilgin</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1345_NAZLI_DEMIRKAN.jpg" alt="Avatar "> 
