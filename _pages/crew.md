@@ -15,6 +15,7 @@ post_date: 2017-05-16 13:52:43
       <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/berke_guducu.jpg" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">Berke Güdücü</div>
+<div class="text">WEB</div>
       </div>
     </div>
     <div class="crew-members container container col-6 col-sm-4"> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/alin_ataz.jpg" alt="Avatar"> </a>
