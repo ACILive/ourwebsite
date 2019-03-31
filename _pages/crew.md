@@ -21,42 +21,50 @@ post_date: 2017-05-16 13:52:43
     <div class="crew-members container container col-6 col-sm-4"> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/alin_ataz.jpg" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">Alin Ataz</div>
+<div class="text">PR</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/archive/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/galya_algranati.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Galya Algranati</div>
+<div class="text">ARCHIVE</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcast/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/selin-ucok.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Selin Üçok</div>
+<div class="text">BROADCAST</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/defne_tankurt.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Defne Tankurt</div>
+<div class="text">PR</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4 "><a href="http://www.acilive.tv/creativity/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/deniz-erdogan.jpg " alt="Avatar "> </a>
       <div class="middle "> 
         <div class="text ">Deniz Erdoğan</div>
+<div class="text">CREATIVITY</div>
       </div>
   </div>
     <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcast/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/dunya_gurses.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Dünya Gürses</div>
+<div class="text">BROADCAST</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4">
 <a href="http://www.acilive.tv/tech/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/cagla_ozbek.jpg" alt="Avatar"> </a>
       <div class="middle ">
         <div class="text">Çağla Özbek</div>
+<div class="text">TECH</div>
       </div>
     </div>
       <div class="crew-members container col-6 col-sm-4 order-8"> <a href="http://www.acilive.tv/video-editing/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar "> </a>
         <div class="middle ">
           <div class="text ">Adel Aycan</div>
+<div class="text">VIDEO EDITING</div>
         </div>
       </div>
 <a href=“http://www.acilive.tv/previous-execs/”> <p>Previous Execs</p></a>
