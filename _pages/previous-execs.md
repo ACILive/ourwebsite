@@ -22,12 +22,12 @@ post_date: 2019-03-28 12:59:44
         <div class="text">Selina Gezmez</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2019/03/Screen-Shot-2019-03-31-at-16.10.26.png" alt="Avatar "> 
-      <div class="middle ">
-        <div class="text ">Aslı Yücebilgin</div>
+   <div class="crew-members container container col-6 col-sm-4"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/03/kucultulmusfoto.png" alt="Avatar">
+      <div class="middle">
+        <div class="text">Selina Gezmez</div>
       </div>
-    </div>
-    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar ">
+    </div>    
+<div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2017/12/1323_NAZ_KAYIN.jpg" alt="Avatar ">
       <div class="middle ">
         <div class="text ">Naz Kayın</div>
       </div>
