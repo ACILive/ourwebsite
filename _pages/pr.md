@@ -22,7 +22,7 @@ post_date: 2019-03-28 12:51:07
         <div class="text">Serkan Emre Erçakır</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2019/04/1720-İrem-Akpınar.jpg" alt="Avatar "> 
+    <div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/04/1720-İrem-Akpınar.jpg" alt="Avatar "> 
       <div class="middle ">
         <div class="text ">İrem Akpınar</div>
       </div>
