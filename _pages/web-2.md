@@ -9,7 +9,7 @@ published: true
 post_date: 2019-03-28 12:54:46
 ---
 <!-- wp:html -->
-<div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> 
+<div class="crew-members container col-6 col-sm-4 "> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/04/917_DENYZ_ERODLU.jpg" alt="Avatar "> 
       <div class="middle ">
         <div class="text ">Deniz Eroğlu</div>
       </div>
