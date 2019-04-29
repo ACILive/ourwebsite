@@ -12,7 +12,12 @@ post_date: 2019-03-28 12:54:19
 <div class="our-members-div container">
   <div class="row justify-content-center">
     <div class="crew-members container col-6 col-sm-4 order-1">
-      <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/04/1585-Berna-Nur-İpbaş.jpg" alt="Avatar">
+<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/04/deniz-erdogan.jpg" alt="Avatar">
+      <div class="middle">
+        <div class="text">Deniz Erdoğan</div>
+      </div>
+    </div>      
+<img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2019/04/1585-Berna-Nur-İpbaş.jpg" alt="Avatar">
       <div class="middle">
         <div class="text">Berna İpbaş</div>
       </div>
