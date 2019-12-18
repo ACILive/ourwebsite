@@ -77,6 +77,6 @@ post_date: 2017-05-16 13:52:43
   </div>
 <!-- /wp:html -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+[instagram-feed]
+<!-- /wp:html -->
