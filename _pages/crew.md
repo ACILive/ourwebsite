@@ -61,10 +61,10 @@ post_date: 2017-05-16 13:52:43
 <div class="text">TECH</div>
       </div>
     </div>
-      <div class="crew-members container col-6 col-sm-4 order-8"> <a href="http://www.acilive.tv/video-editing/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2018/12/adel_aycan-1.jpg " alt="Avatar "> </a>
+      <div class="crew-members container col-6 col-sm-4 order-8"> <a href="http://www.acilive.tv/video-editing/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-36-scaled.jpg" alt="Avatar "> </a>
         <div class="middle ">
-          <div class="text ">Adel Aycan</div>
-<div class="text">VIDEO EDITING</div>
+          <div class="text ">Lamia Raif</div>
+<div class="text">VIDEO</div>
         </div>
       </div>
 <a href="http://www.acilive.tv/previous-execs/"> <p>Previous Execs</p></a>
