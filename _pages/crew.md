@@ -18,13 +18,13 @@ post_date: 2017-05-16 13:52:43
 <div class="text">PRESIDENT</div>
       </div>
     </div>
-    <div class="crew-members container container col-6 col-sm-4"> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar"> </a>
+    <div class="crew-members container container col-6 col-sm-4"> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">İrem Akpınar</div>
 <div class="text">VICE PRESIDENT</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/archive/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-2-scaled.jpg" alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-2-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Serra Yıldırım</div>
 <div class="text">VICE PRESIDENT</div>
