@@ -42,7 +42,7 @@ post_date: 2017-05-16 13:52:43
 <div class="text">BROADCAST</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "><a href="http://www.acilive.tv/creativity/"><img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "><a href="http://www.acilive.tv/creativity/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/image_6483441.jpg" alt="Avatar "> </a>
       <div class="middle "> 
         <div class="text ">Zeynep Özcan</div>
 <div class="text">CREATIVITY</div>
@@ -68,7 +68,7 @@ post_date: 2017-05-16 13:52:43
         </div>
       </div>
 <div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image "#" alt="Avatar"> </a>
+      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-35-scaled.jpg" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">Serenay Arguç</div>
 <div class="text">PR</div>
@@ -82,7 +82,7 @@ post_date: 2017-05-16 13:52:43
       </div>
     </div>
 <div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image "#" alt="Avatar"> </a>
+      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-27-scaled.jpg" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">Sarp Uysal</div>
 <div class="text">ARCHIVE</div>
