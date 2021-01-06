@@ -12,9 +12,9 @@ post_date: 2017-05-16 13:52:43
 <div class="our-members-div container">
   <div class="row justify-content-center">
     <div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar"> </a>
+      <a  href="http://www.acilive.tv/web-2/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/IMG_0096-scaled.jpg" alt="Avatar"> </a>
       <div class="middle">
-        <div class="text">#</div>
+        <div class="text">Deniz Eroğlu</div>
 <div class="text">WEB</div>
       </div>
     </div>
