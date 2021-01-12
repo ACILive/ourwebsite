@@ -77,7 +77,7 @@ post_date: 2017-05-16 13:52:43
         </div>
 </div>
 
- <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> </a>
+ <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/BA01F235-483A-4F26-B09C-BD16AAADE4F2.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Gülce Çelik</div>
 <div class="text">ARCHIVE</div>
