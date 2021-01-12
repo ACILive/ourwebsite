@@ -11,6 +11,7 @@ post_date: 2017-05-16 13:52:43
 <!-- wp:html -->
 <div class="our-members-div container">
   <div class="row justify-content-center">
+
     <div class="crew-members container col-6 col-sm-4 order-1">
       <a  href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-3-scaled.jpg" alt="Avatar"> </a>
       <div class="middle">
@@ -18,55 +19,84 @@ post_date: 2017-05-16 13:52:43
 <div class="text">PRESIDENT</div>
       </div>
     </div>
+
     <div class="crew-members container container col-6 col-sm-4"> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar"> </a>
       <div class="middle">
         <div class="text">İrem Akpınar</div>
 <div class="text">VICE PRESIDENT</div>
       </div>
     </div>
+
     <div class="crew-members container col-6 col-sm-4 "> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-2-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Serra Yıldırım</div>
 <div class="text">VICE PRESIDENT</div>
       </div>
     </div>
+
     <div class="crew-members container col-6 col-sm-4 "> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-7-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Serra Alparslan</div>
 <div class="text">BROADCAST</div>
       </div>
     </div>
+
     <div class="crew-members container col-6 col-sm-4 "> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-6-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">EGE AKSU</div>
 <div class="text">BROADCAST</div>
       </div>
     </div>
+
     <div class="crew-members container col-6 col-sm-4 "><a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/image_6483441.jpg" alt="Avatar "> </a>
       <div class="middle "> 
         <div class="text ">Zeynep Özcan</div>
 <div class="text">CREATIVITY</div>
       </div>
   </div>
+
     <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/IMG_0096-scaled.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Deniz Eroğlu</div>
 <div class="text">WEB</div>
       </div>
     </div>
+
     <div class="crew-members container col-6 col-sm-4">
 <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-4-scaled.jpg" alt="Avatar"> </a>
       <div class="middle ">
         <div class="text">Aras Alkan</div>
 <div class="text">TECH</div>
       </div>
-
     </div>
+
       <div class="crew-members container col-6 col-sm-4 order-8"> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-36-scaled.jpg" alt="Avatar "> </a>
         <div class="middle ">
           <div class="text ">Lamia Raif</div>
 <div class="text">VIDEO</div>
         </div>
+</div>
+
+ <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> </a>
+      <div class="middle ">
+        <div class="text ">Gülce Çelik</div>
+<div class="text">Archive</div>
+      </div>
+    </div>
+
+ <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-27-scaled.jpg" alt="Avatar "> </a>
+      <div class="middle ">
+        <div class="text ">Sarp Uysal</div>
+<div class="text">Archive</div>
+      </div>
+    </div>
+
+ <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-35-scaled.jpg" alt="Avatar "> </a>
+      <div class="middle ">
+        <div class="text ">Serenay Arguç</div>
+<div class="text">PR</div>
+      </div>
+    </div>
 
 <a href="http://www.acilive.tv/previous-execs/"> <p>Previous Execs</p></a>
   </div>
@@ -81,3 +111,7 @@ post_date: 2017-05-16 13:52:43
 <!-- wp:html -->
 [instagram-feed]
 <!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
