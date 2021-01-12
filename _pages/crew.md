@@ -80,14 +80,14 @@ post_date: 2017-05-16 13:52:43
  <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="#" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Gülce Çelik</div>
-<div class="text">Archive</div>
+<div class="text">ARCHIVE</div>
       </div>
     </div>
 
  <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-27-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Sarp Uysal</div>
-<div class="text">Archive</div>
+<div class="text">ARCHIVE</div>
       </div>
     </div>
 
