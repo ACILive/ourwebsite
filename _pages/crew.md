@@ -36,33 +36,33 @@ post_date: 2017-05-16 13:52:43
 <div class="text">BROADCAST</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/pr/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-6-scaled.jpg" alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-6-scaled.jpg" alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">EGE AKSU</div>
 <div class="text">BROADCAST</div>
       </div>
     </div>
-    <div class="crew-members container col-6 col-sm-4 "><a href="http://www.acilive.tv/creativity/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/image_6483441.jpg" alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "><a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/image_6483441.jpg" alt="Avatar "> </a>
       <div class="middle "> 
         <div class="text ">Zeynep Özcan</div>
 <div class="text">CREATIVITY</div>
       </div>
   </div>
-    <div class="crew-members container col-6 col-sm-4 "> <a href="http://www.acilive.tv/broadcast/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/IMG_0096-scaled.jpg " alt="Avatar "> </a>
+    <div class="crew-members container col-6 col-sm-4 "> <a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/IMG_0096-scaled.jpg " alt="Avatar "> </a>
       <div class="middle ">
         <div class="text ">Deniz Eroğlu</div>
 <div class="text">WEB</div>
       </div>
     </div>
     <div class="crew-members container col-6 col-sm-4">
-<a href="http://www.acilive.tv/tech/"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-4-scaled.jpg" alt="Avatar"> </a>
+<a href="#"><img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-4-scaled.jpg" alt="Avatar"> </a>
       <div class="middle ">
         <div class="text">Aras Alkan</div>
 <div class="text">TECH</div>
       </div>
 
     </div>
-      <div class="crew-members container col-6 col-sm-4 order-8"> <a href="http://www.acilive.tv/video-editing/"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-36-scaled.jpg" alt="Avatar "> </a>
+      <div class="crew-members container col-6 col-sm-4 order-8"> <a href="#"> <img class="rounded mx-auto d-block crew-image " src="http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-36-scaled.jpg" alt="Avatar "> </a>
         <div class="middle ">
           <div class="text ">Lamia Raif</div>
 <div class="text">VIDEO</div>
