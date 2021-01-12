@@ -68,31 +68,6 @@ post_date: 2017-05-16 13:52:43
 <div class="text">VIDEO</div>
         </div>
 
-      </div>
-<div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="#"><img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-35-scaled.jpg" alt="Avatar"> </a>
-      <div class="middle">
-        <div class="text">Serenay Arguç</div>
-<div class="text">PR</div>
-      </div>
-    </div>
-
-<div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="#"><img class="rounded mx-auto d-block crew-image "#" alt="Avatar"> </a>
-      <div class="middle">
-        <div class="text">GÜLCE ÇELİK</div>
-<div class="text">ARCHIVE</div>
-      </div>
-    </div>
-
-<div class="crew-members container col-6 col-sm-4 order-1">
-      <a  href="#"><img class="rounded mx-auto d-block crew-image "http://www.acilive.tv/wp-content/uploads/2021/01/ACI-LIVE-WEB-2020-27-scaled.jpg" alt="Avatar"> </a>
-      <div class="middle">
-        <div class="text">Sarp Uysal</div>
-<div class="text">ARCHIVE</div>
-      </div>
-    </div>
-
 <a href="http://www.acilive.tv/previous-execs/"> <p>Previous Execs</p></a>
   </div>
   <h3>About Us</h3>
